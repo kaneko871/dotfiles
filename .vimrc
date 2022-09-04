@@ -77,5 +77,5 @@ endif
 " Color Scheme
 syntax enable
 set background=dark
-colorscheme solarized
+" colorscheme solarized
 

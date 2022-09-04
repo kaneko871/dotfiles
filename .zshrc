@@ -141,11 +141,6 @@ alias mv='mv -i'
 
 alias mkdir='mkdir -p'
 
-# 修士論文
-alias masterresearch='cd /Users/tomoya/Documents/修士論文'
-
-alias paiza='cd /Users/tomoya/Desktop/paiza'
-
 # sudo の後のコマンドでエイリアスを有効にする
 alias sudo='sudo '
 
@@ -185,10 +180,10 @@ esac
 # vim:set ft=zsh
 
 # syntax highlightの設定
-if [ -f /Users/tomoya/.zsh/zsh-syntax-highlighting.zsh ]; then
-    source /Users/tomoya/.zsh/zsh-syntax-highlighting.zsh
-    ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
-fi
+#if [ -f /Users/tomoya/.zsh/zsh-syntax-highlighting.zsh ]; then
+#    source /Users/tomoya/.zsh/zsh-syntax-highlighting.zsh
+#    ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
+#fi
 
 
 
