@@ -141,11 +141,6 @@ alias mv='mv -i'
 
 alias mkdir='mkdir -p'
 
-# 修士論文
-alias masterresearch='cd /Users/tomoya/Documents/修士論文'
-
-alias paiza='cd /Users/tomoya/Desktop/paiza'
-
 # sudo の後のコマンドでエイリアスを有効にする
 alias sudo='sudo '
 
