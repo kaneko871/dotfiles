@@ -185,10 +185,10 @@ esac
 # vim:set ft=zsh
 
 # syntax highlightの設定
-if [ -f /Users/tomoya/.zsh/zsh-syntax-highlighting.zsh ]; then
-    source /Users/tomoya/.zsh/zsh-syntax-highlighting.zsh
-    ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
-fi
+#if [ -f /Users/tomoya/.zsh/zsh-syntax-highlighting.zsh ]; then
+#    source /Users/tomoya/.zsh/zsh-syntax-highlighting.zsh
+#    ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
+#fi
 
 
 
